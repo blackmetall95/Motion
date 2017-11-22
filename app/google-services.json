@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "1061479990133",
+    "firebase_url": "https://motion-b015d.firebaseio.com",
+    "project_id": "motion-b015d",
+    "storage_bucket": "motion-b015d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1061479990133:android:42c607c40b785753",
+        "android_client_info": {
+          "package_name": "com.example.hisyam.motion2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1061479990133-nb2sh68jk33mgif43b3qlcc8oqhdlrjk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJ2YQQCDvmRDHTfxrM0HlhDAXA5quldck"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1061479990133:android:2bb68938b4d543ef",
+        "android_client_info": {
+          "package_name": "com.example.flund.motion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1061479990133-nb2sh68jk33mgif43b3qlcc8oqhdlrjk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJ2YQQCDvmRDHTfxrM0HlhDAXA5quldck"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
